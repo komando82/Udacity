@@ -3,6 +3,6 @@
  */
 
 // your code goes here
-var thingOne = "red";
-var thingTwo = "blue";
-console.log(thingOne + " " + thingTwo);
+var thingOne = 'red';
+var thingTwo = 'blue';
+console.log(thingOne + ' ' + thingTwo);

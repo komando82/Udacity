@@ -3,13 +3,13 @@
  */
 
 var laugh = function (num) {
-    var ha = "";
-    
-    for (var i = 1; i <= num; i++) {
-        ha = ha + "ha";    
-    }
-    
-    return ha + "!";
-}
+	var ha = '';
+
+	for (var i = 1; i <= num; i++) {
+		ha = ha + 'ha';
+	}
+
+	return ha + '!';
+};
 
 console.log(laugh(10));
