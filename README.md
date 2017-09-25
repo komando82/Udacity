@@ -5,4 +5,4 @@ Udacity courses repo
 
 | Courses                                                   |    Finished |
 |:----------------------------------------------------------|------------:|
-| Intro to JavaScript                                       |  22.09.2017 |
+| Intro to JavaScript                                       |  25.09.2017 |
