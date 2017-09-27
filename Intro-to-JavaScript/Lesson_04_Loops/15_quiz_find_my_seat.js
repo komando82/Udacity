@@ -12,7 +12,7 @@
 
 // Write your code here
 for (var x = 0; x <= 25; x++) {
-    for (var y = 0; y < 100; y++) {
-        console.log(x + "-" + y);
-    }
+	for (var y = 0; y < 100; y++) {
+		console.log(x + '-' + y);
+	}
 }

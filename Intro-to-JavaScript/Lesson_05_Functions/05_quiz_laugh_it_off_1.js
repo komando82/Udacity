@@ -4,8 +4,8 @@
 
 // your code goes here
 
-function laugh() {
-    return "hahahahahahahahahaha!";
+function laugh () {
+	return 'hahahahahahahahahaha!';
 }
 
 console.log(laugh());

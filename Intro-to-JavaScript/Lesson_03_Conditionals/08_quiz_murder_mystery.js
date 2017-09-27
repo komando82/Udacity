@@ -3,24 +3,27 @@
  */
 
 // change the value of `room` and `suspect` to test your code
-var room = "dining room";
-var suspect = "Mr. Parkes";
+var room = 'dining room';
+var suspect = 'Mr. Parkes';
 
-var weapon = "";
+var weapon = '';
 var solved = false;
 
 if (room === 'dining room' && suspect === 'Mr. Parkes') {
-    weapon = "knife";
-} else if (room === 'gallery' && suspect === 'Ms. Van Cleve') {
-    weapon = "trophy";
-} else if (room === 'billiards room' && suspect === 'Mrs. Sparr') {
-    weapon = "pool stick";
-} else {
-    weapon = "poison";
+	weapon = 'knife';
+}
+else if (room === 'gallery' && suspect === 'Ms. Van Cleve') {
+	weapon = 'trophy';
+}
+else if (room === 'billiards room' && suspect === 'Mrs. Sparr') {
+	weapon = 'pool stick';
+}
+else {
+	weapon = 'poison';
 }
 
 solved = true;
 
 if (solved) {
-	console.log(suspect + " did it in the " + room + " with the " + weapon + "!");
+	console.log(suspect + ' did it in the ' + room + ' with the ' + weapon + '!');
 }

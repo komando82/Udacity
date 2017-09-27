@@ -3,6 +3,6 @@
  */
 
 // your code goes here
-var udaciFamily = ["Julia", "James", "Ivan"];
+var udaciFamily = ['Julia', 'James', 'Ivan'];
 
 console.log(udaciFamily);

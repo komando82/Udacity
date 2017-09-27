@@ -14,5 +14,5 @@ var firstName = 'Ivan';
 var interest = 'programming';
 var hobby = 'watch football';
 
-var awesomeMessage = "Hi, my name is " + firstName + ". I love " + interest + ". In my spare time, I like to " + hobby + ".";
+var awesomeMessage = 'Hi, my name is ' + firstName + '. I love ' + interest + '. In my spare time, I like to ' + hobby + '.';
 console.log(awesomeMessage);

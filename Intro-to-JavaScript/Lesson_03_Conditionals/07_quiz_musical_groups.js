@@ -8,20 +8,20 @@ var musicians = 1;
 // your code goes here
 
 if (musicians <= 0) {
-    console.log("not a group");
+	console.log('not a group');
 }
 else if (musicians === 1) {
-    console.log("solo");
+	console.log('solo');
 }
 else if (musicians === 2) {
-    console.log("duet");
+	console.log('duet');
 }
 else if (musicians === 3) {
-    console.log("trio");
+	console.log('trio');
 }
 else if (musicians === 4) {
-    console.log("quartet");
+	console.log('quartet');
 }
 else if (musicians > 4) {
-    console.log("this is a large group");
+	console.log('this is a large group');
 }

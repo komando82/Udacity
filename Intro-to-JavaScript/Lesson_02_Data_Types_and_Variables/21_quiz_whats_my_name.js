@@ -3,4 +3,4 @@
  */
 
 // your code goes here
-var fullName = "Ivan Neradovic";
+var fullName = 'Ivan Neradovic';

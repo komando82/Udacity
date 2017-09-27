@@ -4,7 +4,7 @@
 
 // your code goes here
 var cry = function boohoo () {
-    return "boohoo!";
-}
+	return 'boohoo!';
+};
 
 cry();
