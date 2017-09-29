@@ -3,9 +3,10 @@ Udacity courses repo
 
 --------------------------
 
-| Courses                                                   |    Finished |
-|:----------------------------------------------------------|------------:|
-| Object-Oriented JavaScript                                |  29.09.2017 |
-| JavaScript Promises                                       |  27.09.2017 |
-| Intro to JavaScript                                       |  25.09.2017 |
+| Courses                                                   |     Finished |
+|:----------------------------------------------------------|-------------:|
+| Intro to JavaScript                                       |  25.09.2017. |
+| Object-Oriented JavaScript                                |  16.05.2016. |
+| JavaScript Promises                                       |  05.06.2016. |
+| Linux Command Line Basics                                 |  02.11.2015. |
 

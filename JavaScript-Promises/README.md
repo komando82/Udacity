@@ -1,2 +1,2 @@
 ### JavaScript Promises ###
-###### 27.09.2017. - Finished ######
+###### 05.06.2016. - Finished ######
