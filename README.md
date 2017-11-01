@@ -6,6 +6,7 @@ Udacity courses repo
 
 | Courses New                                     |     Finished |
 |:------------------------------------------------|-------------:|
+| GitHub & Collaboration                          |   01.11.2017 |
 | Intro to JavaScript                             |   25.09.2017 |
 
 
@@ -47,7 +48,7 @@ Udacity courses repo
 | Learn Backbone.js                               |              |   22.05.2016 |
 | JavaScript Testing                              |              |   02.11.2015 |
 | Programming Foundations with Python             |              |              |
-| GitHub & Collaboration                          |              |              |
+| GitHub & Collaboration                          |   01.11.2017 |              |
 | Intro to AJAX                                   |              |   20.05.2015 |
 | HTML5 Canvas                                    |              |   21.03.2015 |
 | Intro to jQuery                                 |              |   31.03.2015 |
@@ -68,7 +69,7 @@ Udacity courses repo
 | Linux Command Line Basics                       |              |   20.05.2015 |
 | Shell Workshop                                  |              |              |
 | Version Control with Git                        |              |              |
-| GitHub & Collaboration                          |              |              |
+| GitHub & Collaboration                          |   01.11.2017 |              |
 | Localization Essentials                         |              |              |
 | Passwordless Login Solutions for Android        |              |              |
 | Passwordless Login Solutions for iOS            |              |              |
