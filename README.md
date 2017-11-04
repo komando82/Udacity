@@ -65,7 +65,7 @@ Udacity courses repo
 
 | Developer Essentials                            | New Finished | Old Finished |
 |:------------------------------------------------|-------------:|-------------:|
-| Writing READMEs                                 |              |              |
+| Writing READMEs                                 |   04.11.2017 |              |
 | Linux Command Line Basics                       |              |   20.05.2015 |
 | Shell Workshop                                  |              |              |
 | Version Control with Git                        |              |              |
