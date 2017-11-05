@@ -1,0 +1,42 @@
+
+echo $COLUMNS x $LINES
+
+ls Pictures
+cd Pictures; ls
+lsPictures/../Pictures
+
+pwd (print working directory)
+
+~ (home)
+
+ls -l
+ls -l *.pdf
+
+mkdir
+
+mv
+
+curl -o dictionary.txt -L 'https://tinyurl.com/zeyq9vc'
+
+cat dictionary.txt
+
+less dictionary.txt
+
+rm
+
+rm dir
+
+grep ibo dictionary.txt | wc -l
+
+echo $PWD
+
+echo $LOGNAME $PWD
+
+alias ll='ls -la'
+
+alias
+
+
+
+
+

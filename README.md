@@ -67,7 +67,7 @@ Udacity courses repo
 |:------------------------------------------------|-------------:|-------------:|
 | Writing READMEs                                 |   04.11.2017 |              |
 | Linux Command Line Basics                       |              |   20.05.2015 |
-| Shell Workshop                                  |              |              |
+| Shell Workshop                                  |   05.11.2017 |              |
 | Version Control with Git                        |              |              |
 | GitHub & Collaboration                          |   01.11.2017 |              |
 | Localization Essentials                         |              |              |
