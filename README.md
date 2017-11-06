@@ -6,6 +6,9 @@ Udacity courses repo
 
 | Courses New                                     |     Finished |
 |:------------------------------------------------|-------------:|
+| Version Control with Git                        |   06.11.2017 |
+| Shell Workshop                                  |   05.11.2017 |
+| Writing READMEs                                 |   04.11.2017 |
 | GitHub & Collaboration                          |   01.11.2017 |
 | Intro to JavaScript                             |   25.09.2017 |
 
@@ -68,7 +71,7 @@ Udacity courses repo
 | Writing READMEs                                 |   04.11.2017 |              |
 | Linux Command Line Basics                       |              |   20.05.2015 |
 | Shell Workshop                                  |   05.11.2017 |              |
-| Version Control with Git                        |              |              |
+| Version Control with Git                        |   06.11.2017 |              |
 | GitHub & Collaboration                          |   01.11.2017 |              |
 | Localization Essentials                         |              |              |
 | Passwordless Login Solutions for Android        |              |              |
