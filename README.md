@@ -37,7 +37,7 @@ Udacity courses repo
 | Introduction to Python                          |              |              |
 | Responsive Web Design Fundamentals              |              |   08.05.2016 |
 | Designing RESTful APIs                          |              |   10.06.2016 |
-| Linux Command Line Basics                       |              |   20.05.2015 |
+| Linux Command Line Basics                       |   07.11.2017 |   20.05.2015 |
 | Responsive Images                               |              |   18.05.2015 |
 | Browser Rendering Optimization                  |              |   15.05.2016 |
 | Object-Oriented JavaScript                      |              |   16.05.2016 |
@@ -69,7 +69,7 @@ Udacity courses repo
 | Developer Essentials                            | New Finished | Old Finished |
 |:------------------------------------------------|-------------:|-------------:|
 | Writing READMEs                                 |   04.11.2017 |              |
-| Linux Command Line Basics                       |              |   20.05.2015 |
+| Linux Command Line Basics                       |   07.11.2017 |   20.05.2015 |
 | Shell Workshop                                  |   05.11.2017 |              |
 | Version Control with Git                        |   06.11.2017 |              |
 | GitHub & Collaboration                          |   01.11.2017 |              |
